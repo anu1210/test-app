@@ -4,7 +4,4 @@
         type: SET_DATA,
         payload:data
     });
-    export const setSearch = (search) => ({
-        type: SET_SEARCH,
-        payload:search
-    });
+   
